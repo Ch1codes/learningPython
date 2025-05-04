@@ -1,0 +1,16 @@
+# Ignore virtual environment folder
+learnpython/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
